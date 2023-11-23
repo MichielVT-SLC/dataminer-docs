@@ -42,4 +42,4 @@ For example:
 |------------------|--------------------------------------------------------------------|
 | Component        | Spectrum                                                           |
 | Element          | 111/333                                                            |
-| ComponentOptions | Preset=\[var:PresetVar\]\|ShowRibbon=true\|Measpts=\[var:measpts\] |
+| ComponentOptions | Preset=\[var:PresetVar\]\|Measpts=\[var:measpts\] |
